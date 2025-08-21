@@ -18,7 +18,7 @@ If you're interested in contributing to the site's translations, you can find mo
 To preview the website locally, we have two options: using Docker or using Bundler.
 
 ### Using Docker
-
+# Vaibhav Singh
 >[!TIP]
 > You can run `make help` to obtain detailed information on how to use our make commands.
 
